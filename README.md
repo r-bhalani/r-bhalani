@@ -1,6 +1,7 @@
 # Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Ruchi Bhalani and I'm a sophomore studying computer science at UT Austin. I'm currently peer mentor at the Autonomous Mobile Robotics laboratory under Dr. Peter Stone and Dr. Joydeep Biswas, and have worked on projects involving body tracking using the Azure Kinect, neural nets, and Boston Dynamics's quadruped robot, Spot. Incoming SDE Intern at Amazon for 2022. You can find me on [![LinkedIn][3.2]][3].
+My name is Ruchi Bhalani and I'm a sophomore studying computer science at UT Austin. I'm currently peer mentor at the Autonomous Robotics laboratory, and have worked on projects involving body tracking using the Azure Kinect, neural nets, and Boston Dynamics's quadruped robot, Spot. 
+Incoming SDE Intern at Amazon for 2022. You can find me on [![LinkedIn][3.2]][3].
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
