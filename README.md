@@ -1,8 +1,8 @@
-# Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Ruchi Bhalani and I'm a sophomore studying computer science at UT Austin. I'm currently peer mentor and undergraduate researcher at the Autonomous Robotics laboratory, and have worked on projects involving body tracking using the Azure Kinect, neural nets, and Boston Dynamics's quadruped robot, Spot. 
+My name is Ruchi Bhalani and I'm a computer science student at UT Austin pursuing my BS and MS concurrently. I'm currently a peer mentor and undergraduate researcher at the UT AI lab, specifically the Learning Agents Research Group ([LARG](https://www.cs.utexas.edu/users/ai-lab/?larg)), where I work on multiagent systems, social robots, human-robot interaction, and quadruped robot behaviors. My most recent projects involve body tracking using the Azure Kinect, neural nets, and developing social dog-like behaviors for Boston Dynamics's quadruped robot, Spot. 
 
-Incoming SDE Intern at Amazon for 2022. You can find me on [![LinkedIn][3.2]][3].
+SDE Intern at Amazon for Summer 2022. You can find me on [LinkedIn][3] or check out my [website](https://www.cs.utexas.edu/~rbhalani/).
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -48,6 +48,7 @@ Incoming SDE Intern at Amazon for 2022. You can find me on [![LinkedIn][3.2]][3]
 
 [2]: https://github.com/r-bhalani
 [3]: https://www.linkedin.com/in/ruchi-bhalani/
+[4]: https://www.cs.utexas.edu/users/ai-lab/?larg
 
 
 
