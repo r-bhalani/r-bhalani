@@ -2,7 +2,7 @@
 
 My name is Ruchi Bhalani and I'm a computer science student at UT Austin pursuing my BS and MS concurrently. I'm currently a peer mentor and undergraduate researcher at the UT AI lab, specifically the Learning Agents Research Group ([LARG](https://www.cs.utexas.edu/users/ai-lab/?larg)), where I work on multiagent systems, social robots, human-robot interaction, and quadruped robot behaviors. My most recent projects involve body tracking using the Azure Kinect, neural nets, and developing social dog-like behaviors for Boston Dynamics's quadruped robot, Spot. 
 
-SDE Intern at Amazon for Summer 2022 and 2023, and incoming FT SDE on the Amazon Commerce Platform starting Fall 2024. You can find me on [LinkedIn][3] or check out my [website](https://www.cs.utexas.edu/~rbhalani/).
+SDE Intern at Amazon for Summer 2022 and 2023, and incoming FT SDE on the AWS Commerce Platform starting Fall 2024. You can find me on [LinkedIn][3] or check out my [website](https://www.cs.utexas.edu/~rbhalani/).
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
